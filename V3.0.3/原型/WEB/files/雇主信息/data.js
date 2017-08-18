@@ -1,0 +1,118 @@
+﻿$axure.loadCurrentPage({
+  "url":"雇主信息.html",
+  "generationDate":new Date(1468320480658.61),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4cb1c75ef08c4ad08f752449629de8b6",
+    "type":"Axure:Page",
+    "name":"雇主信息",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a8d6f5b118c746c5ac5b8aa60f56d8fb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":956,
+              "height":604}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e175f21d36574ad9bf0a6f609e9959b9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":956,
+                  "height":604}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/雇主信息/u0.png"}},
+{
+          "id":"9e0a0e84d4cf4f3ead4a0bde2764fb9f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF9900},
+            "location":{
+              "x":440,
+              "y":110},
+            "size":{
+              "width":40,
+              "height":20},
+            "linePattern":"none"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f2a4cf2eee6f4e4eacb7533b8d9d61aa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900},
+                "location":{
+                  "x":440,
+                  "y":110},
+                "size":{
+                  "width":40,
+                  "height":20},
+                "linePattern":"none"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/雇主信息/u2.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a8d6f5b118c746c5ac5b8aa60f56d8fb":{
+      "scriptId":"u0"},
+    "e175f21d36574ad9bf0a6f609e9959b9":{
+      "scriptId":"u1"},
+    "9e0a0e84d4cf4f3ead4a0bde2764fb9f":{
+      "scriptId":"u2"},
+    "f2a4cf2eee6f4e4eacb7533b8d9d61aa":{
+      "scriptId":"u3"}}});

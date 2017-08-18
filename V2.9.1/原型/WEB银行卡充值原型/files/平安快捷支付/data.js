@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"平安快捷支付.html",
+  "generationDate":new Date(1463128527032.79),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"0a5482ed9cbf43d39add3dd5efec7fbd",
+    "type":"Axure:Page",
+    "name":"平安快捷支付",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3d61eebfb722435ba5a0a72ae407ff7f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":730,
+              "height":860}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cbbf1e2e6b4a48c1bc6207b3133637a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":730,
+                  "height":860}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/平安快捷支付/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3d61eebfb722435ba5a0a72ae407ff7f":{
+      "scriptId":"u0"},
+    "cbbf1e2e6b4a48c1bc6207b3133637a4":{
+      "scriptId":"u1"}}});

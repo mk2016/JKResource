@@ -1,0 +1,52 @@
+﻿$axure.loadCurrentPage({
+  "url":"信息架构图.html",
+  "generationDate":new Date(1447913033360.28),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"NewVariable"],
+  "page":{
+    "packageId":"73e5a861f17e4413b7c181b1c982c760",
+    "type":"Axure:Page",
+    "name":"信息架构图",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"center",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"linkWindow",
+                "description":"在 当前窗口 打开 http://jianke.duhanjun.cn/cms2.1.1.pdf",
+                "target":{
+                  "targetType":"webUrl",
+                  "urlLiteral":{
+                    "exprType":"stringLiteral",
+                    "value":"http://jianke.duhanjun.cn/cms2.1.1.pdf",
+                    "stos":[]},
+                  "includeVariables":false},
+                "linkType":"current"}]}]}},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});

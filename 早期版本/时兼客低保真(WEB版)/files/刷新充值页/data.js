@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"刷新充值页.html",
+  "generationDate":new Date(1422494614275.05),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"8a776b30c68e46c6aad84fec1fc5b6e3",
+    "type":"Axure:Page",
+    "name":"刷新充值页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b477fb1a334847a6882b479a0a773796",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":959,
+              "height":1277}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d43e4adadf7a43519fbf16a9fd1e2346",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":959,
+                  "height":1277}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/刷新充值页/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b477fb1a334847a6882b479a0a773796":{
+      "scriptId":"u0"},
+    "d43e4adadf7a43519fbf16a9fd1e2346":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,102 @@
+﻿$axure.loadCurrentPage({
+  "url":"雇主首页.html",
+  "generationDate":new Date(1468320480674.61),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"0955820da26a43e0b9cf77306f54bb06",
+    "type":"Axure:Page",
+    "name":"雇主首页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e5eb43d35ab342f2a81c79e0dd77aecc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1079,
+              "height":817}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0a4e6621bf4041e990c9a22f89414cdb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1079,
+                  "height":817}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/雇主首页/u0.png"}},
+{
+          "id":"7bf45a1b57d8425f80319c7aa78fc946",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1111,
+              "y":560},
+            "size":{
+              "width":249,
+              "height":150}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"77250d76096a447abaec7aee544c6786",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1111,
+                  "y":560},
+                "size":{
+                  "width":249,
+                  "height":150}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/雇主首页/u2.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e5eb43d35ab342f2a81c79e0dd77aecc":{
+      "scriptId":"u0"},
+    "0a4e6621bf4041e990c9a22f89414cdb":{
+      "scriptId":"u1"},
+    "7bf45a1b57d8425f80319c7aa78fc946":{
+      "scriptId":"u2"},
+    "77250d76096a447abaec7aee544c6786":{
+      "scriptId":"u3"}}});

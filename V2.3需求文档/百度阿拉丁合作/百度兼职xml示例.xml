@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset content_method="full">
+<!-- urlset，urlset用来标记整个文档的开头，最少出现1次 最多出现1次 -->
+<!-- 属性content_method，XML全量、增量还是删除，可选，类型为字符串，有效值为：full、inc、dec -->
+    <url>
+    <!-- url，url标记每条信息的开始和结束，最少出现0次 最多出现50000次 -->
+        <loc>http://baidu.com/</loc>
+        <!-- loc，该条数据的存放地址，最少出现1次 最多出现1次，类型为URL地址，最小长度1个字符	最大长度256个字符	必须符合正则表达式(http://)(.+) -->
+        <lastmod>2013-01-01</lastmod>
+        <!-- lastmod，指该条数据的最新一次更新时间，最少出现0次 最多出现1次，类型为日期或日期时间，格式为YYYY-MM-DD的日期或者格式为YYYY-MM-DDThh:mm:ss的日期时间（请注意日期与时间之间以“T”分隔） -->
+        <changefreq>always</changefreq>
+        <!-- changefreq，指该条数据的更新频率，最少出现0次 最多出现1次，类型为字符串，有效值为：always、hourly、daily、weekly、monthly、yearly、never -->
+        <priority>1.0</priority>
+        <!-- priority，用来指定此链接相对于其他链接的优先权比值，此值定于0.0-1.0之间，最少出现0次 最多出现1次，类型为小数，最小值为（包含）0.0	最大值为（包含）1.0 -->
+        <data>
+        <!-- data，，最少出现1次 最多出现1次 -->
+            <display>
+            <!-- display，，最少出现1次 最多出现1次 -->
+                <title>进口零食促销兼职</title>
+                <!-- title: 职位名称，兼职信息题目，尽量简明，能让人一眼看出做什么的，最少出现1次 最多出现1次，类型为字符串 -->
+                <type>促销</type>
+                <!-- type: 职位类型，兼职职位对应的职位类型，根据实际情况对应选择（务必对应）：请从xml样例的excel中对应类目，最少出现1次 最多出现1次，类型为字符串 -->
+                <ftype>兼职</ftype>
+                <!-- ftype: 强制添加字段，这个字段必须填:兼职，最少出现1次 最多出现1次，类型为字符串 -->
+                <weekend>1</weekend>
+                <!-- weekend: 是否是周末兼职，1表示是周末兼职，0表示不是周末兼职，空表示不清楚，最少出现1次 最多出现1次，类型为整数 -->
+                <employer>北京革命技术有限公司</employer>
+                <!-- employer: 发布企业，公司名称，发布该职位的单位、公司等名称，最少出现1次 最多出现1次，类型为字符串 -->
+                <employerlogo>http://xxx.jpg</employerlogo>
+                <!-- employerlogo: 企业logo，以URL链接方式提交，最小尺寸：75*75，最少出现0次 最多出现1次，类型为URL地址 -->
+                <city>北京</city>
+                <!-- city: 职位所在城市，职位工作地所在城市，最少出现1次 最多出现1次，类型为字符串 -->
+                <area>朝阳区</area>
+                <!-- area: 职位所在区县，，最少出现1次 最多出现1次，类型为字符串 -->
+                <address>北京市海淀区西二旗软件园二期7号楼</address>
+                <!-- address: 工作地所在地址，地址信息尽量详细，最少出现1次 最多出现1次，类型为字符串 -->
+                <startday>2015-11-05</startday>
+                <!-- startday: 工作开始日期，工作开始日期，最少出现1次 最多出现1次，类型为日期，格式为YYYY-MM-DD -->
+                <endday>2015-11-20</endday>
+                <!-- endday: 工作结束日期，工作结束日期，最少出现1次 最多出现1次，类型为日期，格式为YYYY-MM-DD -->
+                <starttime>14:05:00</starttime>
+                <!-- starttime: 每日工作开始时间，每日工作开始时间，最少出现0次 最多出现1次，类型为时间，格式为hh:mm:ss -->
+                <endtime>20:05:00</endtime>
+                <!-- endtime: 工作结束时间，工作结束时间，最少出现0次 最多出现1次，类型为时间，格式为hh:mm:ss -->
+                <update>2015-11-09</update>
+                <!-- update: 企业职位信息发布的日期，企业具体发布该职位的时间，最少出现1次 最多出现1次，类型为日期，格式为YYYY-MM-DD -->
+                <salary>150元/天</salary>
+                <!-- salary: 工资待遇，根据实际情况选择：举例 100元/天、2000元/月、20元/小时、面议、80元/次，最少出现1次 最多出现1次，类型为字符串 -->
+                <salarytype>2</salarytype>
+                <!-- salarytype: 工资结算类型，0表示日结，1表示周结，2表示月结，3表示次结，最少出现1次 最多出现1次，类型为字符串 -->
+                <number>5</number>
+                <!-- number: 招聘人数，该职位拟招聘人数，最少出现1次 最多出现1次，类型为整数 -->
+                <sex>男</sex>
+                <!-- sex: 性别，职位要求性别，男或者女，可为空，最少出现0次 最多出现1次，类型为字符串 -->
+                <email>wuxiaoyun@baidu.com</email>
+                <!-- email: 职位发布人或者企业邮箱，职位发布人或者企业邮箱，最少出现0次 最多出现1次，类型为字符串 -->
+                <phonenumber>010-50818882</phonenumber>
+                <!-- phonenumber: 联系电话，位置发布人的联系电话，最少出现0次 最多出现1次，类型为字符串 -->
+                <description>工作要求能吃苦耐劳，有责任心，细心，主动的人</description>
+                <!-- description: 工作内容说明，关于该职位的具体信息，可以是公司，面试等信息，最少出现1次 最多出现1次，类型为字符串 -->
+                <items>练脑,动手,英语</items>
+                <!-- items: 标签，预留字段，供运营使用，暂时为空，每个标签之前用英文,分隔，最少出现0次 最多出现1次，类型为字符串 -->
+                <joburl>http://www.doumi.com/bj/jz_11437.htm</joburl>
+                <!-- joburl: pc端职位详细信息地址，pc端职位信息所在页面url，最少出现1次 最多出现1次，类型为URL地址 -->
+                <jobwapurl>http://m.doumi.com/bj/jz_11437.htm</jobwapurl>
+                <!-- jobwapurl: wise端职位具体信息所在url，wise端职位具体信息所在url，最少出现1次 最多出现1次，类型为URL地址 -->
+                <sourcelink>http://www.doumi.com/</sourcelink>
+                <!-- sourcelink: 招聘站点PC端URL，招聘站点PC端URL，最少出现1次 最多出现1次，类型为URL地址 -->
+                <sourcewapurl>http://m.doumi.com/</sourcewapurl>
+                <!-- sourcewapurl: 招聘站点手机端URL，招聘站点手机端URL，最少出现1次 最多出现1次，类型为URL地址 -->
+                <source>斗米兼职</source>
+                <!-- source: 站点名称，网站名称，最少出现1次 最多出现1次，类型为字符串 -->
+                <period>从11月到12月两个月</period>
+                <!-- period: 工作周期，该职位工作需要的时间段，若不无该数据，可为空。如:1个月，从11月到12月两个月，1个月等均可，最少出现1次 最多出现1次，类型为字符串 -->
+				<crd>12951718.844814_4838098.971264</crd>
+                <!-- crd: 墨卡托坐标，地址的墨卡托坐标，格式为：x_y（参考样例数据），若无数据，留空即可，最少出现1次 最多出现1次，类型为字符串 -->
+            </display>
+        </data>
+    </url>
+</urlset>

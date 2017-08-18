@@ -1,0 +1,100 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1717px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u790_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1717px;
+  height:852px;
+}
+#u790 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1717px;
+  height:852px;
+}
+#u791 {
+  position:absolute;
+  left:2px;
+  top:418px;
+  width:1713px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u792_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Noto Sans Sinhala Regular', 'Noto Sans Sinhala';
+  font-weight:400;
+  font-style:normal;
+}
+#u792 {
+  position:absolute;
+  left:15px;
+  top:136px;
+  width:183px;
+  height:19px;
+  font-family:'Noto Sans Sinhala Regular', 'Noto Sans Sinhala';
+  font-weight:400;
+  font-style:normal;
+}
+#u793 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  white-space:nowrap;
+}
+#u794_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:415px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FF0000;
+}
+#u794 {
+  position:absolute;
+  left:46px;
+  top:830px;
+  width:415px;
+  height:22px;
+  color:#FF0000;
+}
+#u795 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:415px;
+  white-space:nowrap;
+}

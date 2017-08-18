@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"企业充值页弹窗.html",
+  "generationDate":new Date(1422494614288.05),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ad880f24959348fb9a685056da0d9aaf",
+    "type":"Axure:Page",
+    "name":"企业充值页弹窗",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8ff1867cab5d4a87967190ab64e93621",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":962,
+              "height":1280}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bc6e1fa495e942f9b9a5f70ce3170c00",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":962,
+                  "height":1280}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/企业充值页弹窗/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8ff1867cab5d4a87967190ab64e93621":{
+      "scriptId":"u0"},
+    "bc6e1fa495e942f9b9a5f70ce3170c00":{
+      "scriptId":"u1"}}});

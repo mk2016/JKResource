@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,[i,j],k,_(l,m,n,o,p,q,r,_(),s,_(t,u,v,w,x,_(y,z,A,B),C,null,D,E,F,E,G,H,I,null,J,K,L,M,N,O,P,K),Q,_(),R,_(S,_(T,U,V,[_(T,W,X,g,Y,[_(Z,ba,T,bb,bc,_(bd,be,bf,_(bg,bh,bi,bj,bk,[]),bl,g),bm,bn)])])),bo,_(bp,[])),bq,_(),br,_());}; 
+var b="url",c="信息架构图.html",d="generationDate",e=new Date(1449816199818.81),f="isCanvasEnabled",g=false,h="variables",i="OnLoadVariable",j="NewVariable",k="page",l="packageId",m="73e5a861f17e4413b7c181b1c982c760",n="type",o="Axure:Page",p="name",q="信息架构图",r="notes",s="style",t="baseStyle",u="627587b6038d43cca051c114ac41ad32",v="pageAlignment",w="center",x="fill",y="fillType",z="solid",A="color",B=0xFFFFFFFF,C="image",D="imageHorizontalAlignment",E="near",F="imageVerticalAlignment",G="imageRepeat",H="auto",I="favicon",J="sketchFactor",K="0",L="colorStyle",M="appliedColor",N="fontName",O="应用字体",P="borderWidth",Q="adaptiveStyles",R="interactionMap",S="onLoad",T="description",U="OnLoad",V="cases",W="用例 1",X="isNewIfGroup",Y="actions",Z="action",ba="linkWindow",bb="在 当前窗口 打开 ./crm1.2.1.pdf",bc="target",bd="targetType",be="webUrl",bf="urlLiteral",bg="exprType",bh="stringLiteral",bi="value",bj="./crm1.2.1.pdf",bk="stos",bl="includeVariables",bm="linkType",bn="current",bo="diagram",bp="objects",bq="masters",br="objectPaths";
+return _creator();
+})());
